@@ -1,14 +1,8 @@
-## kle1man/nvim
+## tuntiya/nvim
 
 My personal neovim configuration, written from the ground up.
 
 ### Features
-
-**Implementing:**
-
-- Debugging
-- GitHub Copilot
-- Autopairs for LaTeX blocks in markdown files (\$\$ \$\$)
 
 **Implemented:**
 
@@ -49,7 +43,7 @@ My personal neovim configuration, written from the ground up.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
 - [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment)
-- [kle1man/starter](https://github.com/kle1man/nvim/blob/846a79eeeeb4d0ef9d4271df195aa88e85146d23/custom/starter/starter.lua) (modified version of [echasnovski/mini.starter](https://github.com/echasnovski/mini.nvim/blob/b7403ad0c2a4dab777244171ca1b7e8c89696584/lua/mini/starter.lua))
+- [tuntiya/starter](https://github.com/tuntiya/nvim/blob/846a79eeeeb4d0ef9d4271df195aa88e85146d23/custom/starter/starter.lua) (modified version of [echasnovski/mini.starter](https://github.com/echasnovski/mini.nvim/blob/b7403ad0c2a4dab777244171ca1b7e8c89696584/lua/mini/starter.lua))
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim?tab=readme-ov-file#getting-started)
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim)
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
